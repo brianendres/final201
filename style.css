@@ -1,0 +1,181 @@
+.body {
+    font-family: sans-serif;
+}
+.header{
+    background-image: url(http://beingcovers.com/media/facebook-cover/Rainbow-Spectrum-Splatter-Facebook-Covers-1782.jpeg);
+    height: 155px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border:2px solid black;
+    border-bottom: none;
+}
+.header h2{
+    padding: 40px 0px 0px 0px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    
+}
+.nav li{
+    border: 1px solid white;
+    float:left;
+    display: block;
+    padding: 0px 110px 0px 110px;
+    list-style-type: none;
+    color: white;
+    background-color: #0066FF;
+}
+.nav ul{
+    padding-top: 51px;
+}
+.nav{
+    height:20px;
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tipper{
+    border:2px solid black;
+    border-bottom: none;
+    background-color: chartreuse;
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    height:350px;
+}
+.tipper p {
+    margin:40px;
+    float:left;
+    width: 50%;
+    text-indent: 50px;
+    
+}
+.tipper iframe{
+    width: 40%;
+    height:100%;
+    float:right;
+}
+.freddy{
+    border:2px solid black;
+    border-bottom: none;
+    height:400px;
+    background-color: chartreuse;
+    width:90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.freddy iframe{
+    width: 40%;
+    height:100%;
+    float:right;
+}
+.freddy p {
+    margin:40px;
+    float:left;
+    width: 50%;
+    text-indent: 50px;
+}
+.mindep{
+    border:2px solid black;
+    border-bottom: none;
+    height:400px;
+    background-color: chartreuse;
+    width:90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mindep iframe{
+    width: 40%;
+    height:100%;
+    float:right;
+}
+.mindep p {
+    margin:40px;
+    float:left;
+    width: 50%;
+    text-indent: 50px;
+}
+.contentcenter{
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: chartreuse;
+    padding:20px;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-bottom: 47px;
+}
+.contentcenter p, h3{
+    text-align: center;
+}
+.contentcenter h4{
+    text-align: center;
+}
+.contentcenter iframe {
+    height: 25%;
+    width:100%;
+}
+.sidebar1 {
+    border: 2px solid black;
+    width:18.5%;
+    float:left;
+    background-color: #FFFA00;
+    margin-left: 60px;
+    
+}
+.sidebar2 {
+    border: 2px solid black;
+    width:18.5%;
+    float:right;
+    background-color: #FFFA00;
+    margin-right: 60px;
+    padding-bottom: 208px;
+    
+}
+.sidebar2 iframe {
+    height: 450px;
+    width:100%;
+    padding-bottom: 20px;
+}
+.sidebar2 h3{
+    text-align: center;
+
+}
+.sidebar1 h3{
+    text-align: center;
+
+}
+.sidebar1 img {
+    width:120px;
+    height:200px;
+}
+.sidebar1 p, img{
+    padding:15px;
+}
+a:hover li {
+    background-color:cyan;
+}
+a:visited li{
+    color:white; 
+}
+#fb-root {
+    margin-bottom: 50px;
+}
+.contentcenter2 {
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: chartreuse;
+    padding:20px;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-bottom: 1000px;
+}
+.contentcenter2 p, h3{
+    text-align: center;
+}
