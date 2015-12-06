@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>Music</title>
+    </head>
+    <body>
+        <div class = "header">
+        <h2>Freak Beats Of The Week</h2>
+          <div class = "nav">
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="music.html">Music</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+        <div class="sidebar1">
+            <h3>Up Coming Tour Dates</h3>
+            <p>Excision The Paradox Tour</p>
+            <img src="http://d2xywsgqu7zwqi.cloudfront.net/images/event/full/7029_image_1442851828_1.jpg" alt="excision">
+            <p>Griz's Super Shagadelic Tour</p>
+            <img src="http://www.theuntz.com/img/upload/grizshagtour2015.jpg" alt="griz">
+            <p>Bassnectar NYE 360 2016</p>
+            <img src="http://www.bassnectar.net/wp-content/uploads/Bassnectar-NYE2014-admat-support-1200.jpg" alt="bassnectar">
+            <p>Basslights 2015</p>
+            <img src="http://www.bassnectar.net/wp-content/uploads/Basslights-2015-Bassnectar-Pretty-Lights-Hampton-Coliseum.jpg" alt="basslights">
+        </div>
+        <div class="sidebar2">
+            <h3>New Music</h3>
+            <p>G Jones and Bleep Bloop Mind EP</p>
+            <iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/161690121&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+            <p>Freddy Todd Khrysos EP</p>
+            <iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/150858223&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+        </div>
+        <div class="contentcenter">
+            <h3>About Us</h3>
+            <p>Freakbeats Of the Week is a website dedicated to Bass Music and the Community surrounding it. Here you can keep up to date with underground, emerging, and popular producers and DJs in the scene. As well as up coming tour dates, releases, and news.    </p>
+            <h4>Top Five Tracks Of The Week</h4>
+            <p>1. Esseks - Human Music</p>
+            <iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224879091&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+            <p>2. Digital Whomp - Gameboy Funk</p>
+            <iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228048930&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+            <p>3. Freddy Todd - Tanson Space jesus remix</p>
+            <iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/226602128&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+            <p>4. G Jones - That Odd Feeling In The Pit Of My Stomach</p>
+            <iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/219965068&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+            <p>5. Figure and Midnight Tyrannosaurus - Torture and Terror</p>
+            <iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/227149857&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+        </div>
+        
+    </body>
+</html>
