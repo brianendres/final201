@@ -1,3 +1,19 @@
+#userInput {
+    margin-left:100px;
+}
+#comments {
+    width:300px;
+    height:200px;
+    margin-left:150px;
+}
+#userInfo{
+     margin-left:100px;
+    
+}
+#sendButton{
+    
+    margin-left:100px;
+}
 .body {
     font-family: sans-serif;
 }
